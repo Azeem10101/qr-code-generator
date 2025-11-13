@@ -59,7 +59,7 @@ A simple Python script that generates QR codes from any URL entered by the user.
 
 
 
-\## 🧰 Example Output
+\## 🧰 **Example Output**
 
 
 
@@ -71,7 +71,7 @@ C:\\Users\\arsha\\OneDrive\\Desktop\\Python\\MyProject\\qrcode.png
 
 
 
-\## 📸 Preview
+\## 📸 **Preview**
 
 
 
@@ -79,11 +79,11 @@ Here’s what the output looks like:
 
 
 
-!\[QR Code Preview](qrcode.png)
+![QR Code Preview](qrcode.png)
 
 
 
-🧩 Tech Stack
+🧩 **Tech Stack**
 
 
 
@@ -99,7 +99,7 @@ Platform: Local script (runs in terminal)
 
 
 
-🧾 Version History
+🧾 **Version History**
 
 
 
@@ -107,7 +107,7 @@ v1.0 – Basic QR code generator with input and image saving
 
 
 
-Future ideas:
+**Future ideas:**
 
 
 
